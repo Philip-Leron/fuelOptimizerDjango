@@ -1,0 +1,17 @@
+
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific
+*.vscode/
+.idea/
+*.swp
+
+# Static and media files (optional)
+staticfiles/
+media/
+
+# Secrets
+*.env
